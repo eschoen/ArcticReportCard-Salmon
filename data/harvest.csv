@@ -223,9 +223,9 @@ Kuskokwim,Alaska,Chum,NA,2019,"34,568",NA,0,0,0,0,Smith and Gray 2022,https://ww
 Kuskokwim,Alaska,Chum,NA,2020,"26,920",NA,0,0,0,0,Smith and Gray 2022,https://www.adfg.alaska.gov/FedAidPDFs/FMR22-26.pdf,Commercial harvest information confidential because there was only 1 permit holder. 
 Kuskokwim,Alaska,Chum,NA,2021,"9,621",NA,0,0,0,0,Smith and Gray 2022,https://www.adfg.alaska.gov/FedAidPDFs/FMR22-26.pdf,Commercial harvest information confidential because there was only 1 permit holder. 
 Kuskokwim,Alaska,Chum,NA,2022,"10,864",NA,0,0,0,0,Smith and Gray 2022,https://www.adfg.alaska.gov/FedAidPDFs/FMR22-26.pdf,Commercial harvest information confidential because there was only 1 permit holder. 
-Bristol Bay,Alaska,Chinook,NA,1991,"15,245","30,440",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
-Bristol Bay,Alaska,Chinook,NA,1992,"16,425","68,767",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
-Bristol Bay,Alaska,Chinook,NA,1993,"20,527","85,565",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chinook,NA,1991,"15,245","30,440",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
+Bristol Bay,Alaska,Chinook,NA,1992,"16,425","68,767",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
+Bristol Bay,Alaska,Chinook,NA,1993,"20,527","85,565",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
 Bristol Bay,Alaska,Chinook,NA,1994,"18,873","140,905",0,0,0,"17,544",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
 Bristol Bay,Alaska,Chinook,NA,1995,"15,921","99,318",0,0,0,"11,544",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
 Bristol Bay,Alaska,Chinook,NA,1996,"18,072","86,376",0,0,0,"11,077",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
@@ -254,10 +254,10 @@ Bristol Bay,Alaska,Chinook,NA,2018,"13,758","44,720",0,0,0,"12,806",Tiernan et a
 Bristol Bay,Alaska,Chinook,NA,2019,"11,488","33,226",0,0,0,"9,866",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
 Bristol Bay,Alaska,Chinook,NA,2020,"9,369","10,006",0,0,0,"3,138",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
 Bristol Bay,Alaska,Chinook,NA,2021,"5,685","6,944",0,0,0,"5,873",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
-Bristol Bay,Alaska,Chinook,NA,2022,NA,"7,733",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
-Bristol Bay,Alaska,Sockeye,NA,1991,"137,837","25,821,180",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
-Bristol Bay,Alaska,Sockeye,NA,1992,"133,605","31,879,676",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
-Bristol Bay,Alaska,Sockeye,NA,1993,"134,050","40,462,292",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chinook,NA,2022,NA,"7,733",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Subsistence and sport harvest not yet available
+Bristol Bay,Alaska,Sockeye,NA,1991,"137,837","25,821,180",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
+Bristol Bay,Alaska,Sockeye,NA,1992,"133,605","31,879,676",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
+Bristol Bay,Alaska,Sockeye,NA,1993,"134,050","40,462,292",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
 Bristol Bay,Alaska,Sockeye,NA,1994,"120,782","35,224,046",0,0,0,"19,758",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
 Bristol Bay,Alaska,Sockeye,NA,1995,"107,717","44,266,234",0,0,0,"19,973",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
 Bristol Bay,Alaska,Sockeye,NA,1996,"107,737","29,591,658",0,0,0,"12,083",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
@@ -286,4 +286,68 @@ Bristol Bay,Alaska,Sockeye,NA,2018,"78,666","41,937,196",0,0,0,"19,696",Tiernan 
 Bristol Bay,Alaska,Sockeye,NA,2019,"75,320","43,023,030",0,0,0,"19,052",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
 Bristol Bay,Alaska,Sockeye,NA,2020,"78,679","39,579,846",0,0,0,"16,418",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
 Bristol Bay,Alaska,Sockeye,NA,2021,"78,779","41,970,988",0,0,0,"33,052",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
-Bristol Bay,Alaska,Sockeye,NA,2022,NA,"60,531,448",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Sockeye,NA,2022,NA,"60,531,448",0,0,0,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Subsistence and sport harvest not yet available
+Bristol Bay,Alaska,Chum,NA,1991,6574,"1,289,749",,,,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
+Bristol Bay,Alaska,Chum,NA,1992,10661,"920,624",,,,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
+Bristol Bay,Alaska,Chum,NA,1993,6539,"838,382",,,,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
+Bristol Bay,Alaska,Chum,NA,1994,6144,"895,025",,,,"2,934",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,1995,4566,"978,882",,,,"1,917",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,1996,5813,"826,533",,,,"2,844",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,1997,2962,"317,590",,,,"1,973",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,1998,3869,"395,670",,,,"3,039",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,1999,3653,"685,288",,,,"3,380",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2000,4637,"397,973",,,,"3,273",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2001,4158,"831,748",,,,"2,047",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2002,6658,"468,271",,,,"1,544",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2003,5868,"933,031",,,,"1,828",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2004,5141,"732,481",,,,"1,848",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2005,6102,"1,397,083",,,,"2,703",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2006,5321,"2,243,659",,,,"1,509",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2007,3991,"1,939,721",,,,501,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2008,5710,"1,259,761",,,,"1,458",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2009,5052,"1,325,242",,,,"1,443",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2010,4692,"1,001,223",,,,"2,159",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2011,3794,"702,386",,,,"1,267",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2012,4007,"679,463",,,,"1,497",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2013,5173,"1,138,233",,,,"2,946",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2014,6677,"482,531",,,,"1,348",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2015,3573,"1,095,786",,,,939,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2016,5243,"969,479",,,,"1,412",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2017,4907,"1,494,548",,,,"1,746",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2018,4030,"1,636,806",,,,"1,467",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2019,3451,"1,394,185",,,,"2,007",Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2020,2425,"292,890",,,,17,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,
+Bristol Bay,Alaska,Chum,NA,2021,1262,"212,250",,,,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Sport harvest not available
+Bristol Bay,Alaska,Chum,NA,2022,NA,"303,473",,,,NA,Tiernan et al. 2023,https://www.adfg.alaska.gov/FedAidPDFs/FMR23-08.pdf,Subsistence and sport harvest not yet available
+Kuskokwim,Alaska,Sockeye,NA,1991,"47,370","108,946",,,383,38,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,1992,"42,993","92,218",,,"1,264",131,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,1993,"51,455","27,008",,,"4,706",348,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,1994,"42,382","49,365",,,"2,561",359,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,1995,"31,290","92,500",,,"1,992",95,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,1996,"40,728","33,878",,,623,315,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,1997,"38,690","21,989",,,584,423,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,1998,"36,190","60,906",,,625,178,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,1999,"47,418","16,976",,,562,54,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2000,"45,802","4,130",,,410,46,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2001,"52,725",84,,,510,231,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2002,"32,880",84,,,0,42,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2003,"32,973",282,,,0,140,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2004,"39,127","8,532",,,44,400,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2005,"41,885","27,645",,,7,636,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2006,"43,577","12,618",,,0,231,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2007,"46,817",703,,,4,322,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2008,"52,213","15,601",,,0,273,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2009,"35,747","25,673",,,0,162,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2010,"38,735","22,428",,,0,419,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2011,"43,245","13,482",,,0,98,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2012,"47,396","2,857",,,1,132,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2013,"39,382",768,,,0,85,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2014,"48,372","2,720",,,0,270,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2015,"36,781",130,,,0,14,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,
+Kuskokwim,Alaska,Sockeye,NA,2016,"51,580",NA,,,0,175,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,Commercial harvest information confidential because there was only 1 permit holder. 
+Kuskokwim,Alaska,Sockeye,NA,2017,"48,462",NA,,,0,40,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,Commercial harvest information confidential because there was only 1 permit holder. 
+Kuskokwim,Alaska,Sockeye,NA,2018,"35,448",NA,,,0,NA,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,Commercial harvest information confidential because there was only 1 permit holder. Sport Harvest data not yet available
+Kuskokwim,Alaska,Sockeye,NA,2019,"48,745",NA,,,0,NA,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,Commercial harvest information confidential because there was only 1 permit holder. Sport Harvest data not yet available
+Kuskokwim,Alaska,Sockeye,NA,2020,"43,499",NA,,,0,NA,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,Commercial harvest information confidential because there was only 1 permit holder. Sport Harvest data not yet available
+Kuskokwim,Alaska,Sockeye,NA,2021,"44,264",NA,,,0,NA,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,Commercial harvest information confidential because there was only 1 permit holder. Sport Harvest data not yet available
+Kuskokwim,Alaska,Sockeye,NA,2022,"47,432",NA,,,0,NA,Smith et al. 2022,https://www.adfg.alaska.gov/FedAidPDFs/SP22-19.pdf,Commercial harvest information confidential because there was only 1 permit holder. Sport Harvest data not yet available
