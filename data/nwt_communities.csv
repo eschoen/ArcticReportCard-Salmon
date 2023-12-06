@@ -1,0 +1,73 @@
+﻿"Population and dwelling counts: Canada, provinces and territories, and census subdivisions (municipalities) 1",,,,,,,,,,,,,,
+Frequency: Occasional,,,,,,,,,,,,,,
+Table: 98-10-0002-02,,,,,,,,,,,,,,
+Release date: 2022-02-09,,,,,,,,,,,,,,
+"Geography: Canada, Province or territory, Census division, Census subdivision",,,,,,,,,,,,,,
+"Universe: All persons, 2021 and 2016 censuses – 100% data",,,,,,,,,,,,,,
+Variable List: Population and dwelling counts (13),,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Population and dwelling counts (13),"Population, 2021","Population, 2016","Population percentage change, 2016 to 2021","Total private dwellings, 2021","Total private dwellings, 2016","Total private dwellings percentage change, 2016 to 2021","Private dwellings occupied by usual residents, 2021","Private dwellings occupied by usual residents, 2016","Private dwellings occupied by usual residents percentage change, 2016 to 2021","Land area in square kilometres, 2021","Population density per square kilometre, 2021","National population rank, 2021","Province/territory population rank, 2021"
+Geographic name,Geographic area type abbreviation,,,,,,,,,,,,,
+Canada 2,Country,"36,991,981","35,151,728",5.2,"16,284,235","15,412,443",5.7,"14,978,941","14,072,079",6.4,"8,788,702.80",4.2,...,...
+Northwest Territories,TERR,"41,070","41,786",-1.7,"17,603","17,666",-0.4,"15,207","14,981",1.5,"1,127,711.92",0,...,...
+Aklavik,HAM,536,590,-9.2,274,281,-2.5,216,214,0.9,12.29,43.6,"2,856",13
+Fort McPherson,HAM,647,700,-7.6,318,314,1.3,255,270,-5.6,53.83,12,"2,626",9
+Inuvik,T,3137,"3,243",-3.3,"1,464","1,477",-0.9,"1,223","1,181",3.6,62.68,50,"1,008",3
+Paulatuk,HAM,298,265,12.5,100,110,-9.1,81,88,-8,63.58,4.7,"3,515",20
+"Region 1, Unorganized",NO,0,5,-100,0,5,-100,0,1,-100,"356,369.26",0,"4,831",38
+Sachs Harbour,HAM,104,103,1,52,44,18.2,38,39,-2.6,272.22,0.4,"4,233",29
+Tsiigehtchic,CC,138,172,-19.8,73,79,-7.6,59,62,-4.8,47.89,2.9,"4,109",25
+Tuktoyaktuk,HAM,937,898,4.3,334,283,18,285,268,6.3,12.66,74,"2,197",7
+Ulukhaktok,HAM,408,396,3,159,148,7.4,134,125,7.2,120.71,3.4,"3,158",17
+Colville Lake,SET,110,129,-14.7,43,45,-4.4,30,37,-18.9,126.14,0.9,"4,214",27
+Déline,CC,573,533,7.5,226,239,-5.4,190,188,1.1,79.39,7.2,"2,773",11
+Fort Good Hope,CC,507,516,-1.7,231,238,-2.9,195,165,18.2,47.25,10.7,"2,925",14
+Norman Wells,T,673,778,-13.5,404,406,-0.5,269,314,-14.3,82.09,8.2,"2,581",8
+"Region 2, Unorganized",NO,0,0,...,0,0,...,0,0,...,"217,909.79",0,"4,831",38
+Tulita,HAM,396,477,-17,160,183,-12.6,134,154,-13,52.28,7.6,"3,194",18
+Behchokò,CG,1746,"1,874",-6.8,541,562,-3.7,460,471,-2.3,74.96,23.3,"1,515",5
+Gamètì,CG,252,278,-9.4,104,96,8.3,82,76,7.9,9.04,27.9,"3,671",23
+"Region 3, Unorganized",NO,0,0,...,0,0,...,0,0,...,"24,639.90",0,"4,831",38
+Wekweètì,CG,109,129,-15.5,55,51,7.8,29,30,-3.3,14.71,7.4,"4,222",28
+Whatì,CG,543,470,15.5,162,152,6.6,143,128,11.7,58.33,9.3,"2,834",12
+Fort Liard,HAM,468,500,-6.4,209,210,-0.5,170,164,3.7,67.61,6.9,"3,012",15
+Fort Providence,HAM,618,695,-11.1,292,292,0,256,247,3.6,255.49,2.4,"2,679",10
+Fort Simpson,VL,1100,"1,202",-8.5,572,562,1.8,452,471,-4,77.89,14.1,"1,998",6
+Hay River Dene 1,IRI,259,309,-16.2,116,111,4.5,90,87,3.4,134,1.9,"3,643",22
+Jean Marie River,SET,63,77,-18.2,37,33,12.1,33,23,43.5,37.5,1.7,"4,443",33
+Kakisa,SET,39,36,8.3,19,22,-13.6,14,12,16.7,95.14,0.4,"4,561",34
+Nahanni Butte,SET,81,87,-6.9,39,48,-18.8,33,34,-2.9,79.42,1,"4,344",31
+"Region 4, Unorganized",NO,30,47,-36.2,78,95,-17.9,13,23,-43.5,"192,346.47",0,"4,592",36
+Sambaa K’e,SET,97,88,10.2,49,51,-3.9,49,32,53.1,118.01,0.8,"4,267",30
+Wrigley,SET,117,119,-1.7,63,71,-11.3,42,45,-6.7,53.93,2.2,"4,189",26
+Enterprise,HAM,75,106,-29.2,51,52,-1.9,33,44,-25,305.58,0.2,"4,375",32
+Fort Resolution,HAM,412,470,-12.3,223,280,-20.4,167,190,-12.1,452.87,0.9,"3,140",16
+Fort Smith,T,2248,"2,542",-11.6,"1,009","1,088",-7.3,881,957,-7.9,91.21,24.6,"1,281",4
+Hay River,T,3169,"3,528",-10.2,"1,541","1,572",-2,"1,274","1,383",-7.9,122.4,25.9,"1,004",2
+Lutselk'e,SET,333,303,9.9,139,147,-5.4,129,110,17.3,42.96,7.8,"3,407",19
+"Region 5, Unorganized",NO,37,31,19.4,54,38,42.1,14,6,133.3,"151,099.55",0,"4,570",35
+Reliance,SET,0,0,...,1,1,0,0,1,-100,21,0,"4,831",38
+Salt Plains 195,IRI,5,0,...,37,21,76.2,4,1,300,0.35,14.3,"4,760",37
+Dettah,SET,192,219,-12.3,85,85,0,79,74,6.8,1.12,171.9,"3,886",24
+"Region 6, Unorganized",NO,273,302,-9.6,314,416,-24.5,132,135,-2.2,"182,097.01",0,"3,603",21
+Yellowknife,CY,20340,"19,569",3.9,"7,975","7,758",2.8,"7,519","7,131",5.4,103.37,196.8,222,1
+,,,,,,,,,,,,,,
+Symbol legend:,,,,,,,,,,,,,,
+..., not applicable,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Abbreviation notes:,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+List of abbreviations and acronyms found within various Census products.,,,,,,,,,,,,,,
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm),,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Footnotes:,,,,,,,,,,,,,,
+1,"<p><strong>Content considerations</strong></p>  <p>The 2021 Census population counts for a particular geographic area represent the number of Canadians whose usual place of residence is in that area, regardless of where they happened to be on Census Day. Also included are any Canadians who were staying in that area on Census Day and who had no usual place of residence elsewhere in Canada, as well as those considered to be non-permanent residents. For most areas, there is little difference between the number of usual residents and the number of people staying in the area on Census Day. For certain places, however, such as tourist or vacation areas, or those including large work camps, the number of people staying in that area at any particular time could significantly exceed the number of usual residents shown here. The population counts include Canadians living in other countries, but do not include foreign residents living in Canada. Given these differences, users are advised not to interpret population counts as being the number of people living in the reported dwellings.</p>  <p>The dwelling counts refer to total private dwellings and private dwellings occupied by usual residents in Canada. The census dwelling counts do not include collective dwellings, which are dwellings of a commercial, institutional or communal nature. The usual residents in collective dwellings are, however, included in the population counts.</p>  <p>Changes occur to the names, boundaries and other characteristics of geographic areas (e.g., census subdivisions may amalgamate, or there may be an annexation or a change of name or status). Since the geographic framework is used for census data collection, the geographic reference date must be set several months before the date of the census in order to have these changes made in time. For the 2021 Census, the geographic reference date was January 1, 2021.</p>  <p>Land area is the area in square kilometres of the land-based portions of standard geographic areas. The data are unofficial, and are provided for the sole purpose of calculating population density. Land area data for the standard geographic areas reflect the boundaries in effect on January 1, 2021 (the geographic reference date for the 2021 Census of Canada).</p>  <p><strong>Definitions</strong></p>  <p>The Census Dictionary is a reference document which contains detailed definitions of Census of Population concepts, universes, variables, and geographic terms, as well as historical information.</p> <p><strong>Incompletely enumerated reserves and settlements</strong></p><p>In 2021, a total of 63 census subdivisions defined as reserves and settlements were incompletely enumerated. For these reserves and settlements, dwelling enumeration was either not permitted or could not be completed because of the various reasons below.</p><p>This represents an increase compared with the 14 census subdivisions defined as reserves and settlements that were incompletely enumerated in the 2016 Census. Health and safety restrictions put in place to slow the spread of COVID-19 and natural events (including evacuations because of forest fires) contributed to the incomplete enumeration of many reserves and settlements.</p><p>The 2021 Census population and dwelling counts are not available for the 63 incompletely enumerated reserves and settlements, and are not included in 2021 Census tabulations. Data for geographic areas containing one or more of these reserves and settlements are noted accordingly. Because of the missing data, users are cautioned that—for the affected geographic areas—comparisons (e.g., percentage change) between 2016 and 2021 may not be precise. The impact of the missing data for higher-level geographic areas (Canada, provinces and territories, census metropolitan areas and census agglomerations) is usually very/ small. However, the impact can be significant for lower-level geographic areas (e.g., census divisions), where incompletely enumerated reserves and settlements account for a higher proportion of the population. This is especially true for lower-level geographic areas where a particular reserve or settlement was incompletely enumerated for the 2021 Census but enumerated for the 2016 Census and, vice versa.</p>  <p><strong>Adjustment of population counts</strong></p>  <p>Statistics Canada is committed to protect the privacy of all Canadians and the confidentiality of the data they provide to us. As part of this commitment, some population counts of geographic areas are adjusted in order to ensure confidentiality.</p>  <p>Counts of the total population are rounded to a base of 5 for any dissemination block having a population of less than 15. Population counts for all standard geographic areas above the dissemination block level are derived by summing the adjusted dissemination block counts. The adjustment of dissemination block counts is controlled to ensure that the population counts for dissemination areas will always be within 5 of the actual values. The adjustment has no impact on the population counts of census divisions and large census subdivisions. Dwelling counts are not adjusted.</p>  <p><strong>Difference between census counts and population estimates</strong></p>  <p>The Census of Population is designed to conduct a complete count of the population. Inevitably, however, some individuals will not be enumerated (undercoverage), while others, usually less numerous, will be enumerated more than once (overcoverage).</p>  <p>To determine the number of people who were missed or counted more than once, Statistics Canada conducts postcensal studies of the coverage of the census population, using representative samples of the population. Results of these studies are usually available two years after Census Day. They are used, in combination with census figures and other sources, to develop the population estimates produced by Statistics Canada on a regular basis. Population estimates are used for equalization payments, to follow trends in the Canadian population on a quarterly basis and to understand the underlying components of population change (for example, births, deaths, immigrants, emigrants and non-permanent residents). Population estimates differ from census counts and are usually higher, because census counts are not adjusted for undercoverage or overcoverage.</p>",,,,,,,,,,,,,
+2,Excludes census data for one or more incompletely enumerated reserves or settlements.,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"How to cite: Statistics Canada. Table 98-10-0002-02  Population and dwelling counts: Canada, provinces and territories, and census subdivisions (municipalities)",,,,,,,,,,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810000202,,,,,,,,,,,,,,

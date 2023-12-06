@@ -1,0 +1,583 @@
+Region,Community,Population,Lat,Lon
+Alaska,Adak,122,51.88,-176.6580556
+Alaska,Akhiok,84,56.9455556,-154.1702778
+Alaska,Akiachak,562,60.9094444,-161.4313889
+Alaska,Akiak,399,60.9122222,-161.2138889
+Alaska,Akutan,899,54.135555600000004,-165.7730556
+Alaska,Alakanuk,777,62.6888889,-164.6152778
+Alaska,Alatna,1,66.5638889,-152.6666667
+Alaska,Aleknagik,199,59.2730556,-158.6177778
+Alaska,Aleneva,59,58.06,-152.9097222
+Alaska,Allakaket,77,66.5655556,-152.6455556
+Alaska,Ambler,280,67.0861111,-157.8513889
+Alaska,Anaktuvuk Pass,247,68.1433333,-151.7358333
+Alaska,Anchorage,299107,61.2180556,-149.9002778
+Alaska,Anchor Point,1951,59.7766667,-151.8313889
+Alaska,Anderson,201,64.3441667,-149.1869444
+Alaska,Angoon,382,57.5033333,-134.5838889
+Alaska,Aniak,525,61.5783333,-159.5222222
+Alaska,Anvik,87,62.6561111,-160.2066667
+Alaska,Arctic Village,138,68.1269444,-145.5377778
+Alaska,Atka,66,52.1961111,-174.2005556
+Alaska,Atmautluak,258,60.8669444,-162.2730556
+Alaska,Atqasuk,159,70.4691667,-157.3994444
+Alaska,Badger,21197,64.8,-147.5333333
+Alaska,Barrow,4293,71.2905556,-156.7886111
+Alaska,Bear Creek,1824,60.1641667,-149.395
+Alaska,Beaver,60,66.3594444,-147.3963889
+Alaska,Beluga,6,61.1411111,-151.0827778
+Alaska,Bethel,6370,60.7922222,-161.7558333
+Alaska,Bettles,22,66.9188889,-151.5161111
+Alaska,Big Delta,539,64.1525,-145.8422222
+Alaska,Big Lake,3815,61.5213889,-149.9544444
+Alaska,Birch Creek,1,66.2590355,-145.81901680000001
+Alaska,Brevig Mission,442,65.3347222,-166.4891667
+Alaska,Buckland,596,65.9797222,-161.1230556
+Alaska,Butte,3854,61.5422222,-149.0333333
+Alaska,Cantwell,209,63.3916667,-148.9508333
+Alaska,Central,58,65.5725,-144.8030556
+Alaska,Chalkyitsik,101,66.6544444,-143.7222222
+Alaska,Chase,23,62.4491667,-150.1016667
+Alaska,Chefornak,516,60.16,-164.2658333
+Alaska,Chenega,66,60.0663707,-148.012387
+Alaska,Chevak,1082,61.5277778,-165.5863889
+Alaska,Chickaloon,284,61.7966667,-148.4627778
+Alaska,Chignik,70,56.2952778,-158.4022222
+Alaska,Chignik Lagoon,73,56.3084393,-158.5302391
+Alaska,Chignik Lake,70,56.2555556,-158.7625
+Alaska,Chiniak,23,57.6319444,-152.1825
+Alaska,Chistochina,59,62.5717828,-144.6541704
+Alaska,Chitina,80,61.5158333,-144.4369444
+Alaska,Chuathbaluk,116,61.5719444,-159.245
+Alaska,Circle,118,65.8255556,-144.0605556
+Alaska,Clam Gulch,182,60.2311111,-151.3936111
+Alaska,Clarks Point,56,58.8441667,-158.5508333
+Alaska,Coffman Cove,150,56.0138889,-132.8277778
+Alaska,Cohoe,1577,60.3686111,-151.3063889
+Alaska,Cold Bay,46,55.1858333,-162.7211111
+Alaska,Coldfoot,10,67.2563889,-150.1841667
+Alaska,College,14675,64.8569444,-147.8027778
+Alaska,Cooper Landing,457,60.49,-149.8341667
+Alaska,Copper Center,405,61.9769598,-145.3297294
+Alaska,Cordova,2621,60.5427778,-145.7575
+Alaska,Covenant Life,105,59.4172222,-136.025
+Alaska,Craig,1231,55.4763889,-133.1483333
+Alaska,Crooked Creek,98,61.87,-158.1108333
+Alaska,Crown Point,132,60.4222222,-149.3666667
+Alaska,Deering,144,66.0755556,-162.7172222
+Alaska,Delta Junction,1045,64.0377778,-145.7322222
+Alaska,Diamond Ridge,1140,59.6761111,-151.5575
+Alaska,Dillingham,2307,59.0397222,-158.4575
+Alaska,Diomede,43,65.7581,-168.952
+Alaska,Dot Lake Village,54,63.6508333,-144.0438889
+Alaska,Dry Creek,84,63.6533333,-144.6652778
+Alaska,Eagle,89,64.7880556,-141.2
+Alaska,Eagle Village,17,64.7805556,-141.11361110000001
+Alaska,Eek,455,60.2188889,-162.0244444
+Alaska,Egegik,68,58.2155556,-157.3758333
+Alaska,Ekwok,78,59.3497222,-157.4752778
+Alaska,Elfin Cove,24,58.1944444,-136.3433333
+Alaska,Elim,328,64.6175,-162.2605556
+Alaska,Emmonak,835,62.7777778,-164.5230556
+Alaska,Ester,3008,64.8472222,-148.0144444
+Alaska,Evansville,16,66.9227778,-151.5080556
+Alaska,Excursion Inlet,40,58.4213889,-135.4366667
+Alaska,Fairbanks,32193,64.8377778,-147.7163889
+Alaska,False Pass,37,54.8508333,-163.415
+Alaska,Ferry,6,64.0166667,-149.1166667
+Alaska,Fort Yukon,555,66.5647222,-145.2738889
+Alaska,Fox,558,64.9580556,-147.6183333
+Alaska,Fox River,649,59.8583333,-150.9583333
+Alaska,Fritz Creek,1910,59.7361111,-151.2952778
+Alaska,Funny River,776,60.5019444,-150.7622222
+Alaska,Gakona,205,62.301944399999996,-145.3019444
+Alaska,Galena,554,64.7333333,-156.9275
+Alaska,Gambell,718,63.7797222,-171.7411111
+Alaska,Game Creek,36,58.0566667,-135.5077778
+Alaska,Gateway,5610,61.5727778,-149.2408333
+Alaska,Glennallen,366,62.1091667,-145.5463889
+Alaska,Golovin,132,64.5433333,-163.0291667
+Alaska,Goodnews Bay,230,59.1188889,-161.5875
+Alaska,Grayling,171,62.9036111,-160.0647222
+Alaska,Gulkana,115,62.2713889,-145.3822222
+Alaska,Gustavus,496,58.4133333,-135.7369444
+Alaska,Haines,1955,59.228589,-135.444114
+Alaska,Halibut Cove,23,59.595,-151.225
+Alaska,Happy Valley,607,59.9472222,-151.7322222
+Alaska,Healy,1120,63.8569444,-148.9661111
+Alaska,Hollis,124,55.5566667,-132.6363889
+Alaska,Holy Cross,214,62.1994444,-159.7713889
+Alaska,Homer,5324,59.6425,-151.5483333
+Alaska,Hoonah,821,58.11,-135.4436111
+Alaska,Hooper Bay,1140,61.5311111,-166.0966667
+Alaska,Hope,50,60.9202778,-149.6402778
+Alaska,Houston,1977,61.6302778,-149.8180556
+Alaska,Hughes,62,66.0488889,-154.2555556
+Alaska,Huslia,420,65.6986111,-156.3997222
+Alaska,Hydaburg,277,55.2080556,-132.8266667
+Alaska,Hyder,13,55.9169444,-130.0247222
+Alaska,Igiugig,49,59.3277778,-155.8947222
+Alaska,Iliamna,78,59.7567965,-154.9110837
+Alaska,Juneau,32531,58.301944399999996,-134.4197222
+Alaska,Kake,628,56.9758333,-133.9472222
+Alaska,Kaktovik,155,70.1319444,-143.6238889
+Alaska,Kalifornsky,7965,60.4183333,-151.29
+Alaska,Kaltag,192,64.3272222,-158.7219444
+Alaska,Karluk,44,57.5719444,-154.4555556
+Alaska,Kasaan,71,55.5388889,-132.4008333
+Alaska,Kasigluk,599,60.8955556,-162.5180556
+Alaska,Kasilof,388,60.3375,-151.2744444
+Alaska,Kenai,7463,60.5544444,-151.2583333
+Alaska,Kenny Lake,128,61.7191667,-144.9483333
+Alaska,Ketchikan,8197,55.3422222,-131.6461111
+Alaska,Kiana,380,66.975,-160.4227778
+Alaska,King Cove,1074,55.0616667,-162.3102778
+Alaska,King Salmon,340,58.6883333,-156.6613889
+Alaska,Kipnuk,686,59.9388889,-164.0413889
+Alaska,Kivalina,576,67.7269444,-164.5333333
+Alaska,Klawock,792,55.5522222,-133.0958333
+Alaska,Klukwan,66,59.4038889,-135.8844444
+Alaska,Kobuk,159,66.9072222,-156.8811111
+Alaska,Kodiak,6293,57.79,-152.4072222
+Alaska,Kokhanok,145,59.4419444,-154.7558333
+Alaska,Koliganek,129,59.7286111,-157.2844444
+Alaska,Kongiganak,408,59.9532731,-162.8951327
+Alaska,Kotlik,643,63.0341667,-163.5533333
+Alaska,Kotzebue,3283,66.8983333,-162.5966667
+Alaska,Koyuk,272,64.9319444,-161.1569444
+Alaska,Koyukuk,80,64.8802778,-157.7008333
+Alaska,Kupreanof,40,56.8144444,-132.9805556
+Alaska,Kwethluk,824,60.8122222,-161.4358333
+Alaska,Kwigillingok,331,59.864444399999996,-163.1341667
+Alaska,Lake Louise,45,62.2813889,-146.55111110000001
+Alaska,Lake Minchumina,21,63.8827778,-152.3122222
+Alaska,Larsen Bay,61,57.54,-153.9786111
+Alaska,Lazy Mountain,1637,61.6261111,-148.9455556
+Alaska,Levelock,114,59.1141667,-156.8588889
+Alaska,Lime Village,7,61.3563889,-155.4355556
+Alaska,Livengood,10,65.5244444,-148.5447222
+Alaska,Lowell Point,141,60.0725,-149.4411111
+Alaska,Lower Kalskag,317,61.5122222,-160.3580556
+Alaska,Lutak,13,59.3411111,-135.5655556
+Alaska,Manley Hot Springs,84,65.0011111,-150.6338889
+Alaska,Manokotak,691,58.9813889,-159.0583333
+Alaska,Marshall,350,61.8777778,-162.0811111
+Alaska,McCarthy,107,61.4333333,-142.9216667
+Alaska,McGrath,346,62.9563889,-155.5958333
+Alaska,Meadow Lakes,7424,61.6247222,-149.6011111
+Alaska,Mekoryuk,174,60.3880556,-166.185
+Alaska,Mendeltna,22,62.0661111,-146.45
+Alaska,Mentasta Lake,157,62.9211111,-143.7691667
+Alaska,Metlakatla,1661,55.1291667,-131.5722222
+Alaska,Minto,257,65.150411,-149.349708
+Alaska,Moose Creek,728,64.71,-147.1436111
+Alaska,Moose Pass,428,60.4875,-149.3688889
+Alaska,Mosquito Lake,126,59.5291667,-136.0911111
+Alaska,Mountain Village,749,62.0855556,-163.7294444
+Alaska,Mud Bay,167,55.4208333,-131.7680556
+Alaska,Naknek,567,58.7283333,-157.0138889
+Alaska,Nanwalek,238,59.3563889,-151.9208333
+Alaska,Napakiak,352,60.6966667,-161.9519444
+Alaska,Napaskiak,408,60.7080556,-161.7661111
+Alaska,Naukati Bay,32,55.8736111,-133.1847222
+Alaska,Nelchina,170,61.9919444,-146.7686111
+Alaska,Nelson Lagoon,42,56.0006152,-161.206974
+Alaska,Nenana,406,64.5638889,-149.0930556
+Alaska,New Allakaket,67,66.54268,-152.64769
+Alaska,Newhalen,159,59.72,-154.8972222
+Alaska,New Stuyahok,609,59.4527778,-157.3119444
+Alaska,Newtok,388,60.9427778,-164.6294444
+Alaska,Nightmute,259,60.4794444,-164.7238889
+Alaska,Nikiski,4549,60.6902778,-151.2888889
+Alaska,Nikolaevsk,234,59.8119444,-151.6105556
+Alaska,Nikolai,113,63.0133333,-154.375
+Alaska,Nikolski,37,52.9380556,-168.8677778
+Alaska,Ninilchik,728,60.0513889,-151.6688889
+Alaska,Noatak,443,67.5711111,-162.9652778
+Alaska,Nome,3773,64.5011111,-165.4063889
+Alaska,Nondalton,182,59.9736111,-154.8458333
+Alaska,Noorvik,608,66.8383333,-161.0327778
+Alaska,North Pole,2265,64.7511111,-147.3494444
+Alaska,Northway,131,62.9616667,-141.9372222
+Alaska,Northway Junction,64,63.0022222,-141.7772222
+Alaska,Northway Village,92,62.9822222,-141.9516667
+Alaska,Nuiqsut,345,70.2175,-150.9763889
+Alaska,Nulato,285,64.7194444,-158.1030556
+Alaska,Nunam Iqua,129,62.5336111,-164.8411111
+Alaska,Nunapitchuk,554,60.8969444,-162.4594444
+Alaska,Old Harbor,249,57.2027778,-153.3038889
+Alaska,Oscarville,22,60.7227778,-161.77
+Alaska,Ouzinkie,230,57.9236111,-152.5022222
+Alaska,Palmer,6449,61.5997222,-149.1127778
+Alaska,Paxson,38,63.0897222,-145.6130556
+Alaska,Pedro Bay,12,59.7872222,-154.1061111
+Alaska,Pelican,79,57.9608333,-136.2275
+Alaska,Perryville,98,55.9139846,-159.1632767
+Alaska,Petersburg,3024,56.8112667,-132.9512425
+Alaska,Pilot Point,53,57.5641667,-157.5791667
+Alaska,Pilot Station,582,61.9388889,-162.875
+Alaska,Pitkas Point,136,62.0327778,-163.2877778
+Alaska,Platinum,42,59.0130556,-161.8163889
+Alaska,Pleasant Valley,168,64.8813889,-146.8686111
+Alaska,Point Baker,41,56.3527778,-133.6211111
+Alaska,Point Hope,562,68.3486111,-166.7347222
+Alaska,Point Lay,285,69.743857,-163.008442
+Alaska,Point MacKenzie,466,61.3597222,-149.9783333
+Alaska,Port Alexander,31,56.2497222,-134.6444444
+Alaska,Port Alsworth,147,60.2025,-154.3127778
+Alaska,Port Clarence,40,65.2622222,-166.8458333
+Alaska,Port Graham,206,59.3513889,-151.8297222
+Alaska,Port Heiden,81,56.9325614,-158.6249699
+Alaska,Port Lions,231,57.8675,-152.8822222
+Alaska,Port Protection,82,56.3172222,-133.5980556
+Alaska,Prudhoe Bay,2724,70.2552778,-148.3372222
+Alaska,Quinhagak,661,59.7488889,-161.9158333
+Alaska,Rampart,7,65.505,-150.17
+Alaska,Red Devil,22,61.7611111,-157.3125
+Alaska,Red Dog Mine,81,68.0755556,-162.8561111
+Alaska,Ridgeway,2195,60.5319444,-151.0852778
+Alaska,Ruby,202,64.7394444,-155.4869444
+Alaska,Russian Mission,410,61.785,-161.3202778
+Alaska,Salamatof,1110,60.615375,-151.3194369
+Alaska,Sand Point,1188,55.3397222,-160.4972222
+Alaska,Savoonga,883,63.6941667,-170.4788889
+Alaska,Saxman,401,55.3183333,-131.5958333
+Alaska,Scammon Bay,488,61.8427778,-165.5816667
+Alaska,Selawik,794,66.6038889,-160.0069444
+Alaska,Seldovia,243,59.4380556,-151.7113889
+Alaska,Seldovia Village,174,59.4780556,-151.6519444
+Alaska,Seward,2710,60.1041667,-149.4422222
+Alaska,Shageluk,43,62.6822222,-159.5619444
+Alaska,Shaktoolik,223,64.3338889,-161.1538889
+Alaska,Shishmaref,573,66.2566667,-166.0719444
+Alaska,Shungnak,342,66.8880556,-157.1363889
+Alaska,Sitka,8943,57.0530556,-135.33
+Alaska,Skagway,957,59.4583333,-135.3138889
+Alaska,Skwentna,42,61.9902778,-151.3977778
+Alaska,Slana,84,62.7069444,-143.9611111
+Alaska,Sleetmute,96,61.7025,-157.1697222
+Alaska,Soldotna,4409,60.4877778,-151.0583333
+Alaska,South Naknek,63,58.7155556,-156.9980556
+Alaska,Stebbins,547,63.5222222,-162.2880556
+Alaska,Sterling,6054,60.5372222,-150.7647222
+Alaska,Stevens Village,25,66.0063889,-149.0908333
+Alaska,Saint George,53,56.6,-169.5416667
+Alaska,Saint Marys,583,62.0530556,-163.1658333
+Alaska,Saint Michael,396,63.4780556,-162.0391667
+Alaska,Stony River,40,61.7830556,-156.5880556
+Alaska,Saint Paul,576,57.1222222,-170.275
+Alaska,Sunrise,15,60.8897222,-149.4211111
+Alaska,Takotna,49,62.9886111,-156.0641667
+Alaska,Talkeetna,616,62.3238889,-150.1094444
+Alaska,Tanacross,127,63.3852778,-143.3463889
+Alaska,Tanaina,9640,61.6269444,-149.4280556
+Alaska,Tanana,277,65.1719444,-152.0788889
+Alaska,Tatitlek,86,60.8647222,-146.6786111
+Alaska,Tazlina,358,62.0588695,-145.4284212
+Alaska,Teller,165,65.2636111,-166.3608333
+Alaska,Tenakee Springs,150,57.7808333,-135.2188889
+Alaska,Tetlin,121,63.1350512,-142.5238796
+Alaska,Thorne Bay,566,55.6877778,-132.5222222
+Alaska,Togiak,787,59.0619444,-160.3763889
+Alaska,Tok,1331,63.3366667,-142.9855556
+Alaska,Toksook Bay,549,60.5337752,-165.1036627
+Alaska,Tonsina,30,61.6558333,-145.1752778
+Alaska,Trapper Creek,432,62.3166667,-150.2313889
+Alaska,Tuluksak,436,61.1025,-160.9616667
+Alaska,Tuntutuliak,466,60.3430556,-162.6630556
+Alaska,Tununak,294,60.5855556,-165.2558333
+Alaska,Twin Hills,95,59.0791667,-160.275
+Alaska,Two Rivers,238,64.8722222,-147.0383333
+Alaska,Tyonek,214,61.0680556,-151.1369444
+Alaska,Ugashik,19,57.5130556,-157.3975
+Alaska,Unalakleet,710,63.8730556,-160.7880556
+Alaska,Unalaska,4619,53.8736111,-166.5366667
+Alaska,Valdez,3979,61.1308333,-146.3483333
+Alaska,Venetie,177,67.0138889,-146.4186111
+Alaska,Wainwright,458,70.6369444,-160.0383333
+Alaska,Wales,155,65.6091667,-168.0875
+Alaska,Wasilla,8676,61.5813889,-149.4394444
+Alaska,Whale Pass,16,56.1152778,-133.1208333
+Alaska,White Mountain,179,64.6813889,-163.4055556
+Alaska,Whittier,295,60.7730556,-148.6838889
+Alaska,Willow,2085,61.7472222,-150.0375
+Alaska,Willow Creek,8,61.8197222,-145.2122222
+Alaska,Wiseman,11,67.41,-150.1075
+Alaska,Womens Bay,852,57.6822222,-152.6686111
+Alaska,Wrangell,2387,56.4708333,-132.3766667
+Alaska,Yakutat,597,59.5469444,-139.7272222
+British Columbia,Vancouver,662248,49.2448,-123.115
+British Columbia,Surrey,568322,49.1745,-122.828
+British Columbia,Burnaby,249125,49.2521,-122.962
+British Columbia,Richmond,209937,49.1539,-123.158
+British Columbia,Abbotsford,153524,49.0477,-122.27
+British Columbia,Coquitlam,148625,49.2539,-122.849
+British Columbia,Kelowna,144576,49.8833,-119.483
+British Columbia,Langley,132603,49.1038,-122.659
+British Columbia,Saanich,117735,48.4878,-123.388
+British Columbia,Nanaimo,99863,49.1659,-123.939
+British Columbia,Kamloops,97902,50.6783,-120.348
+British Columbia,Chilliwack,93203,49.175,-121.942
+British Columbia,Victoria,91867,48.4334,-123.362
+British Columbia,Maple Ridge,90990,49.2174,-122.598
+British Columbia,North Vancouver,88168,49.3142,-123.067
+British Columbia,New Westminster,78916,49.2167,-122.917
+British Columbia,Prince George,76708,53.9116,-122.776
+British Columbia,Port Coquitlam,61498,49.2567,-122.762
+British Columbia,North Vancouver,58120,49.3142,-123.067
+British Columbia,Langford,46584,48.4566,-123.497
+British Columbia,Vernon,44519,50.2642,-119.269
+British Columbia,Mission,41519,49.1376,-122.304
+British Columbia,Penticton,36885,49.4822,-119.585
+British Columbia,Campbell River,35519,50.0167,-125.242
+British Columbia,Port Moody,33535,49.2786,-122.868
+British Columbia,Langley,28963,49.1038,-122.659
+British Columbia,Courtenay,28420,49.6889,-124.999
+Yukon,Whitehorse,28201,60.727,-135.074
+British Columbia,Squamish,23819,49.3221,-123.13
+British Columbia,White Rock,21939,49.0252,-122.796
+British Columbia,Fort St. John,21465,56.2461,-120.845
+British Columbia,Cranbrook,20499,49.5155,-115.759
+Northwest Territories,Yellowknife,20340,62.4536,-114.37
+British Columbia,Salmon Arm,19432,50.7,-119.267
+British Columbia,Pitt Meadows,19146,49.2172,-122.686
+British Columbia,Colwood,18961,48.4321,-123.497
+British Columbia,Port Alberni,18259,49.2417,-124.8
+British Columbia,Oak Bay,17990,48.4301,-123.309
+British Columbia,Esquimalt,17533,48.4289,-123.408
+British Columbia,Central Saanich,17385,48.5669,-123.397
+British Columbia,Sooke,15086,48.3823,-123.728
+British Columbia,Comox,14806,49.6739,-124.928
+British Columbia,Whistler,13982,50.1215,-122.962
+British Columbia,Powell River,13943,49.872,-124.546
+British Columbia,Parksville,13642,49.3227,-124.327
+British Columbia,Dawson Creek,12323,55.7595,-120.235
+British Columbia,Sidney,12318,48.65,-123.4
+British Columbia,Prince Rupert,12300,54.315,-130.315
+British Columbia,North Saanich,12235,48.6217,-123.421
+British Columbia,Summerland,12042,49.6054,-119.673
+British Columbia,Terrace,12017,54.5234,-128.598
+British Columbia,View Royal,11575,48.4583,-123.45
+British Columbia,Coldstream,11171,50.2292,-119.227
+British Columbia,Nelson,11106,49.4975,-117.282
+British Columbia,Williams Lake,10947,52.1415,-122.143
+British Columbia,Sechelt,10847,49.4794,-123.762
+British Columbia,Quesnel,9889,52.9806,-122.504
+British Columbia,Qualicum Beach,9303,49.3475,-124.442
+British Columbia,Ladysmith,8990,48.9926,-123.82
+British Columbia,Castlegar,8338,49.3218,-117.66
+British Columbia,Revelstoke,8275,51.0012,-118.196
+British Columbia,Kitimat,8236,54.051,-128.651
+British Columbia,Kimberley,8115,49.6871,-115.983
+British Columbia,Trail,7920,49.1,-117.7
+British Columbia,Merritt,7051,50.1114,-120.79
+British Columbia,Hope,6686,49.3802,-121.43
+British Columbia,Fernie,6320,49.5068,-115.069
+British Columbia,Peachland,5789,49.7786,-119.736
+British Columbia,Creston,5583,49.1006,-116.507
+British Columbia,Osoyoos,5556,49.0311,-119.465
+British Columbia,Smithers,5378,54.7825,-127.166
+British Columbia,Armstrong,5323,50.4461,-119.199
+British Columbia,Spallumcheen,5307,50.5314,-119.147
+British Columbia,Oliver,5094,49.1826,-119.553
+British Columbia,Metchosin,5067,48.3756,-123.529
+British Columbia,Duncan,5047,48.7789,-123.702
+British Columbia,Gibsons,4758,49.4018,-123.514
+British Columbia,Cumberland,4447,49.622,-125.026
+British Columbia,Vanderhoof,4346,54.0175,-124.002
+British Columbia,Sparwood,4148,49.7326,-114.892
+British Columbia,Rossland,4140,49.0775,-117.801
+British Columbia,Grand Forks,4112,49.029,-118.453
+British Columbia,Golden,3986,51.2949,-116.964
+British Columbia,Invermere,3917,50.5007,-116.038
+British Columbia,Kamloops,3915,50.6783,-120.348
+British Columbia,Port Hardy,3902,50.7189,-127.507
+British Columbia,Lantzville,3817,49.2532,-124.082
+British Columbia,Pemberton,3407,50.3167,-122.8
+British Columbia,Lake Cowichan,3325,48.8261,-124.052
+British Columbia,Mackenzie,3281,55.3353,-123.096
+Northwest Territories,Hay River,3169,60.8097,-115.7898
+Northwest Territories,Inuvik,3137,68.361,-133.73
+British Columbia,Houston,3052,54.397,-126.652
+British Columbia,Enderby,3028,50.5549,-119.141
+British Columbia,Princeton,2894,49.4524,-120.514
+British Columbia,Elkford,2749,50.0123,-114.93
+British Columbia,Sicamous,2613,50.835,-118.98
+British Columbia,Tofino,2516,49.1505,-125.906
+British Columbia,Highlands,2482,48.5144,-123.516
+British Columbia,Cowichan,2420,48.7688,-123.68
+British Columbia,Tumbler Ridge,2399,55.1333,-121
+British Columbia,Chase,2399,50.8221,-119.688
+British Columbia,Clearwater,2388,51.65,-120.033
+British Columbia,Anmore,2356,49.3115,-122.849
+British Columbia,Port McNeill,2356,50.586,-127.079
+British Columbia,Chetwynd,2302,55.6949,-121.619
+British Columbia,Lillooet,2302,50.6941,-121.939
+British Columbia,Tsawwassen,2256,49.0357,-123.094
+British Columbia,Logan Lake,2255,50.4913,-120.813
+Northwest Territories,Fort Smith,2248,60.0053,-111.8829
+British Columbia,Penticton,2080,49.4822,-119.585
+British Columbia,Ucluelet,2066,48.9399,-125.528
+British Columbia,Lumby,2063,50.25,-118.967
+British Columbia,Fruitvale,1958,49.1139,-117.548
+British Columbia,Harrison Hot Springs,1905,49.3,-121.783
+British Columbia,Barriere,1765,51.1819,-120.133
+British Columbia,Warfield,1753,49.0945,-117.749
+Northwest Territories,Behchokò,1746,62.8335,-116.0514
+British Columbia,Ashcroft,1670,50.721,-121.28
+British Columbia,Burns Lake,1659,54.2314,-125.76
+British Columbia,Musqueam,1646,49.2298,-123.2
+British Columbia,Keremeos,1608,49.2064,-119.826
+British Columbia,Nakusp,1589,50.2418,-117.799
+Yukon,Dawson,1577,64.0625,-139.431
+British Columbia,Telkwa,1474,54.6972,-127.05
+British Columbia,Osoyoos,1426,49.0311,-119.465
+British Columbia,Lions Bay,1390,49.4591,-123.236
+British Columbia,Fort St. James,1386,54.4487,-124.256
+British Columbia,Radium Hot Springs,1339,50.623,-116.08
+British Columbia,Taylor,1317,56.1544,-120.68
+British Columbia,Gold River,1246,49.7807,-126.052
+British Columbia,Mount Currie,1242,50.3249,-122.656
+British Columbia,Bella Bella,1193,52.1639,-128.144
+British Columbia,Salmo,1140,49.1916,-117.277
+Yukon,Watson Lake,1133,60.0639,-128.706
+Northwest Territories,Fort Simpson,1100,61.8609,-121.3527
+British Columbia,Valemount,1052,52.8305,-119.265
+British Columbia,Kaslo,1049,49.9086,-116.911
+British Columbia,Montrose,1013,49.0788,-117.591
+British Columbia,Cache Creek,969,50.8119,-121.323
+British Columbia,Fraser Lake,965,54.0583,-124.847
+Northwest Territories,Tuktoyaktuk,937,69.4509,-133.0358
+British Columbia,Bella Coola,937,52.3706,-126.752
+British Columbia,Hudson's Hope,841,56.0319,-121.907
+British Columbia,Masset,838,54.0174,-132.147
+British Columbia,Canal Flats,802,50.1576,-115.817
+British Columbia,Seabird Island,800,49.2542,-121.731
+British Columbia,Sliammon,797,49.8962,-124.601
+Yukon,Marsh Lake,746,60.5193,-134.332
+British Columbia,Port Alice,739,50.3833,-127.45
+British Columbia,Greenwood,702,49.0949,-118.676
+British Columbia,Skidegate,697,53.2715,-131.988
+Yukon,Haines Junction,688,60.7559,-137.504
+British Columbia,Belcarra,687,49.3182,-122.928
+Northwest Territories,Norman Wells,673,65.2811,-126.8316
+British Columbia,Midway,651,49.0071,-118.773
+Northwest Territories,Fort McPherson,647,67.4365,-134.8833
+British Columbia,Lax Kw'alaams,627,54.55,-130.433
+Northwest Territories,Fort Providence,618,61.3552,-117.6542
+British Columbia,New Hazelton,602,55.2466,-127.586
+Yukon,Carmacks,588,62.0888,-136.284
+British Columbia,McBride,588,53.3,-120.167
+British Columbia,Kispiox,578,55.3503,-127.691
+Northwest Territories,Déline,573,65.1897,-123.4244
+British Columbia,Mission,570,49.1376,-122.304
+British Columbia,Clinton,568,51.0942,-121.587
+Northwest Territories,Whatì,543,63.1449,-117.2743
+Northwest Territories,Aklavik,536,68.22,-135.0087
+British Columbia,Nak'azdli,528,54.4309,-124.248
+Yukon,Ibex Valley,523,60.8494,-135.639
+British Columbia,Stewart,517,55.9418,-129.984
+Northwest Territories,Fort Good Hope,507,66.257,-128.6377
+British Columbia,Chehalis,500,49.2918,-121.911
+British Columbia,New Denver,487,49.9917,-117.374
+British Columbia,Iskut,478,57.8466,-129.983
+British Columbia,Masset,475,54.0174,-132.147
+British Columbia,Port Edward,470,54.2224,-130.288
+Yukon,Mt. Lorne,468,60.4126,-134.952
+Northwest Territories,Fort Liard,468,60.2392,-123.4752
+British Columbia,Matsqui,456,49.006,-122.476
+British Columbia,Alert Bay,449,50.5789,-126.92
+Yukon,Faro,440,62.2274,-133.35
+British Columbia,Enderby,440,50.5549,-119.141
+Northwest Territories,Fort Resolution,412,61.171,-113.6721
+Northwest Territories,Ulukhaktok,408,70.7366,-117.772
+British Columbia,Gitanyow,408,55.2676,-128.072
+Northwest Territories,Tulita,396,64.9006,-125.5763
+British Columbia,Tahsis,393,49.9303,-126.655
+British Columbia,Alert Bay,382,50.5789,-126.92
+British Columbia,Slocan,379,49.7667,-117.467
+British Columbia,Alkali Lake,358,51.788,-122.227
+Yukon,Ross River,355,61.9779,-132.449
+British Columbia,Coldwater,350,50.0358,-120.859
+British Columbia,Port Clements,340,53.6852,-132.179
+British Columbia,Granisle,337,54.8844,-126.213
+British Columbia,Sayward,334,50.377,-125.952
+Northwest Territories,Lutselk'e,333,62.4041,-110.7382
+Yukon,Carcross,317,60.1694,-134.701
+Yukon,Pelly Crossing,316,62.8198,-136.574
+Yukon,Tagish,311,60.31,-134.266
+Northwest Territories,Paulatuk,298,69.3503,-124.06
+British Columbia,Comox,291,49.6739,-124.928
+British Columbia,Kitselas,291,54.6167,-128.417
+British Columbia,Lillooet,285,50.6941,-121.939
+British Columbia,Neskonlith,279,50.7739,-119.716
+Northwest Territories,Hay River Dene,259,60.7939,-115.704
+British Columbia,Hazelton,257,55.2546,-127.676
+British Columbia,Moricetown,253,55.0183,-127.331
+Northwest Territories,Gamètì,252,64.1129,-117.3525
+British Columbia,Williams Lake,248,52.1415,-122.143
+British Columbia,Fort Ware,242,57.4252,-125.633
+British Columbia,Bridge River,242,50.7808,-121.975
+Yukon,Teslin,239,60.1683,-132.719
+Yukon,Old Crow,236,67.5729,-139.829
+British Columbia,Wells,218,53.1041,-121.571
+British Columbia,Homalco,214,49.9526,-125.243
+British Columbia,Lytton,210,50.2316,-121.583
+British Columbia,Cheam,207,49.1942,-121.776
+Northwest Territories,Dettah,192,62.4112,-114.3084
+Yukon,Mayo,188,63.5931,-135.896
+British Columbia,Hagwilget,183,55.2546,-127.596
+British Columbia,Bonaparte,159,50.8383,-121.378
+British Columbia,Halalt,156,48.8769,-123.692
+British Columbia,Opitsat,153,49.1751,-125.912
+British Columbia,Silverton,149,49.9528,-117.358
+Northwest Territories,Tsiigehtchic,138,67.4424,-133.7424
+Yukon,Upper Liard,130,60.0545,-128.923
+British Columbia,Zeballos,126,49.987,-126.847
+British Columbia,Esquimalt,120,48.4289,-123.408
+Northwest Territories,Wrigley,117,63.2268,-123.4667
+British Columbia,Deep Creek,111,50.6094,-119.213
+Northwest Territories,Colville Lake,110,67.0399,-126.0912
+Northwest Territories,Wekweètì,109,64.1892,-114.1861
+British Columbia,Union Bay,109,49.5802,-124.885
+Northwest Territories,Sachs Harbour,104,71.9867,-125.2505
+British Columbia,Toosey,104,51.9323,-122.506
+Northwest Territories,Sambaa K’e,97,60.4426,-121.2424
+British Columbia,Creston,93,49.1006,-116.507
+British Columbia,Dog Creek,88,52.0944,-122.114
+British Columbia,Qualicum,82,49.4,-124.617
+Northwest Territories,Nahanni Butte,81,61.0356,-123.3832
+British Columbia,McLeod Lake,81,54.985,-123.047
+Yukon,Beaver Creek,78,62.3833,-140.875
+Northwest Territories,Enterprise,75,60.5555,-116.1472
+British Columbia,Semiahmoo,71,49.0126,-122.766
+British Columbia,Douglas,66,49.0028,-122.736
+Yukon,Burwash Landing,64,61.3542,-138.994
+Northwest Territories,Jean Marie River,63,61.525,-120.6278
+British Columbia,Fort Rupert,58,50.6889,-127.42
+British Columbia,Spuzzum,55,49.6886,-121.417
+British Columbia,Coquitlam,55,49.2539,-122.849
+British Columbia,Dease Lake,54,58.4394,-129.996
+British Columbia,Telegraph Creek,51,57.9018,-131.166
+British Columbia,Cheslatta,49,53.8167,-125.8
+British Columbia,Pavilion,48,50.8833,-121.833
+British Columbia,Ashcroft,42,50.721,-121.28
+Yukon,Destruction Bay,40,61.2542,-138.807
+Northwest Territories,Kakisa,39,60.9407,-117.4159
+British Columbia,Kluskus,38,53.0904,-124.493
+Yukon,Carcross,37,60.1694,-134.701
+British Columbia,Soda Creek,30,52.3275,-122.275
+British Columbia,Scotch Creek,30,50.9014,-119.451
+British Columbia,Skookumchuck,30,49.943,-122.408
+Yukon,Lake Laberge,24,60.9509,-135.132
+British Columbia,Mission,19,49.1376,-122.304
+British Columbia,Dog Creek,17,52.0944,-122.114
+British Columbia,Louis Creek,15,51.1401,-120.122
+Yukon,Johnsons Crossing,10,60.4889,-133.297
+Yukon,Stewart Crossing,10,63.3675,-136.679
+British Columbia,St. Mary's,10,49.6203,-115.696
+British Columbia,Musqueam,10,49.2298,-123.2
+British Columbia,Skuppah,10,50.1885,-121.578
+Yukon,Swift River,5,60.0042,-131.187
+British Columbia,Scowlitz,5,49.2425,-122.002
+British Columbia,Lower Post,5,59.9249,-128.486
