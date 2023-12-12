@@ -10,7 +10,6 @@ setwd("~/Development/ArcticReportCard-Salmon")
 
 library(tidyverse)
 library(scales)
-library(GGally)
 library(patchwork)
 
 theme_set(theme_bw(12))
