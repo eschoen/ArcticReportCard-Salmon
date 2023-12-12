@@ -1,5 +1,5 @@
 # Compile-communities.R
-# Compile and filter age, sex, and length data for Arctic Report Card salmon essay
+# Compile community location data for map in Arctic Report Card salmon essay
 # Erik Schoen
 # 11-2023
 
